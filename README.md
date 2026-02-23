@@ -27,12 +27,19 @@ This project follows the **DAO (Data Access Object) design pattern** and demonst
 
 ---
 HibernateCRUD/
+
 │── src/main/java/com/entity/Student.java
+
 │── src/main/java/com/dao/StudentDAO.java
+
 │── src/main/java/com/util/HibernateUtil.java
+
 │── src/main/java/com/app/MainApp.java
+
 │── src/main/resources/hibernate.cfg.xml
+
 │── pom.xml
+
 │── .gitignore
 
 
@@ -93,5 +100,3 @@ Git & GitHub version control
 
 Umesh D C
 GitHub: https://github.com/UmeshDc13
-
-## 📂 Project Structure
